@@ -1,0 +1,15 @@
+For our model, it is more dependent on recall as it shall correct the data that are actually needs to be corrected.
+
+1. On corrupting the data by 10% 
+Achieved the results:
+recall =  17.8137651822
+precision =  86.2745098039
+
+
+2. On corrupting the data by 20%
+Achieved the results:
+recall =  12.8309572301
+precision =  82.8947368421
+
+
+On corrupting the data with 10% the recall has improved by 4% on average.
